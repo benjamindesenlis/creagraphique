@@ -1,0 +1,21 @@
+nav li{
+    display: inline;
+    margin-right: 30px;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    color:red
+}
+nav ul{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#home {
+    text-align: center;
+}
+body{
+    background: url(bg3.jpg)
+}
